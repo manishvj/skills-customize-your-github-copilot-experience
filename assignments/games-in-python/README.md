@@ -1,4 +1,3 @@
-
 # 🎮 Hangman Game Challenge
 
 Build the classic word-guessing game using Python strings, loops, and user input.
